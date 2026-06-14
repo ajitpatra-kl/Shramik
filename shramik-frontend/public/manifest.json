@@ -1,0 +1,30 @@
+{
+  "name": "Shramik Profile — Hyperlocal Skill Marketplace",
+  "short_name": "Shramik",
+  "description": "Connect instantly with verified local service technicians near you.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "orientation": "portrait-primary",
+  "lang": "en-IN",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Search Technicians",
+      "short_name": "Search",
+      "description": "Find local service professionals near you",
+      "url": "/?tab=search",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    }
+  ]
+}

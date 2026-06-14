@@ -1,0 +1,10 @@
+/* 
+ * App.css — Shramik Profile
+ * 
+ * This file is intentionally minimal. All global styles, design tokens,
+ * glassmorphism utilities, and component-specific CSS are defined in:
+ *   - src/index.css  (primary design system + Tailwind utilities)
+ * 
+ * The tailwind.config.js handles all color tokens, font stacks, and
+ * extended theme values. Do not duplicate tokens here.
+ */
